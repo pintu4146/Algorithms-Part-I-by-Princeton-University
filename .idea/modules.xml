@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Algorithms, Part I by Princeton University.iml" filepath="$PROJECT_DIR$/Algorithms, Part I by Princeton University.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/algo_analysis/algo_analysis.iml" filepath="$PROJECT_DIR$/src/algo_analysis/algo_analysis.iml" />
     </modules>
   </component>
 </project>
